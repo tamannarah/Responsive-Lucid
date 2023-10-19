@@ -1,0 +1,532 @@
+@media(max-width:1399px){
+    .banner_img{
+        width:28%;
+    }
+    .btn_download{
+        padding: 0;
+        margin: 0;
+        padding: 7px 10px;
+        margin: 40px 0;
+    }
+    .btn_view{
+        padding: 0;
+        margin: 0;
+        padding: 7px 10px;
+        margin: 40px 10px;
+
+    }
+}
+@media(max-width:1199px){
+    header{
+      
+    }
+    .banner p{
+        margin-bottom: 50px;
+       
+    }
+    .btn_download{
+        padding: 0;
+        margin: 0;
+        padding: 7px 10px;
+        margin: 40px 0;
+    }
+    .btn_view{
+        padding: 0;
+        margin: 0;
+        padding: 7px 10px;
+        margin: 40px 10px;
+
+    }
+    .banner_img{
+        width: 42%;
+    }
+    .theme{
+        align-content: center !important;
+        
+    }
+    .theme p{
+        padding: 0;
+        padding: 20px 0 !important;
+        font-size: 20px !important;
+        margin-bottom: 10px !important;
+
+    }
+   
+    .theme .button{
+        display: flex;
+    }
+    .button{
+        margin: auto;
+    }
+    .button .btn_download{
+        padding: 0;
+        margin: 0;
+        padding: 10px 5px;
+    }
+    .button .btn_view{
+        padding: 0;
+        margin: 0;
+        padding: 10px 5px;
+        margin-left: 10px;
+    }
+    
+    
+    
+   
+}
+@media(max-width:991px){
+    .nav-item{
+        padding-left: 0;
+    }
+   
+    .banner{
+       
+    }
+    
+   
+    .banner h4{
+        font-size: 14px;
+
+    }
+    .banner h1{
+        font-size:26px ;
+
+    }
+    .banner p{
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    
+    .btn_download{
+        padding: 5px 7px;
+        font-size: 10px;
+        margin: 40px 0;
+    }
+    .btn_view{
+        padding: 5px 7px;
+        font-size: 10px;
+        margin: 40px 10px;
+    }
+    .banner_img{
+        width: 48%;
+    }
+    
+    .feature{
+        padding: 10px 0;
+    }
+    .feature .heading{
+        padding-bottom: 0 !important;
+    }
+    .feature_section .heading h6{
+        font-size: 14px;
+
+    }
+    .feature_section .heading h1{
+        
+        font-size: 28px;
+    }
+    .feature_wraper{
+        padding-top: 0 !important;
+    }
+    .detail h1{
+        font-size: 28px;
+    }
+    .customize{
+        padding-top: 0 !important;
+    }
+    .customize h1{
+        font-size: 28px;
+    }
+    .quality{
+        padding-bottom: 20px;
+    }
+    .quality h1{
+        font-size: 28px;
+    }
+    .quality p{
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .carousel_content{
+        text-align: center !important;
+    }
+    .client p{
+        margin:0;
+    }
+    .theme{
+        align-content: center !important;
+        
+    }
+    .theme p{
+        font-size: 14px !important;
+        margin-bottom: 10px !important;
+        padding: 0;
+        padding: 20px 0 !important;
+
+    }
+    .theme .button{
+        display: flex;
+    }
+    .button{
+        margin: auto;
+    }
+    
+    
+  
+    .plan h1{
+        font-size: 28px;
+    }
+    .plan .heading{
+        padding-bottom: 10px !important;
+    }
+    .pricing_box{
+        margin-bottom: 10px;
+    }
+    .pricing_box h2{
+        font-size: 18px;
+    }
+    .pricing p{
+        padding-bottom: 16px;
+    
+    }
+    .pricing_box .btn_view{
+        padding: 5px 10px;
+        font-size: 14px;
+    }
+    .theme p{
+        text-align: center;
+    }
+    .theme .button{
+        text-align: center;
+    }
+    .contact_us .heading{
+        padding-bottom: 10px !important;
+    }
+    .contact_form{
+        padding: 27px 20px;
+        bottom: -185px;
+        width: 60%;
+      }
+      .contact_form form input[type="submit"]{
+          padding: 5px 10px;
+          font-size: 14px;
+      }
+
+
+
+
+}
+@media(max-width:767px){
+
+    header{
+        min-height: 40vh;
+    }
+    .navbar-brand img{
+        width: 90px;
+        padding-left: 10px;
+    }
+    .navbar-nav .nav-item{
+        padding-left: 10px;
+        text-align: center;
+        
+    }
+    .nav-link{
+        display: inline-block;
+        font-size: 14px;
+        
+    }
+    .banner{
+        padding-top: 16px;
+        text-align: center;
+    
+        margin-bottom: 10px;
+        
+    }
+    .phone{
+        display: inherit;
+        width: 91%;
+        display: block;
+        margin: auto;
+        margin-bottom: 20px;
+
+    }
+   
+    .banner h4{
+        font-size: 14px;
+
+    }
+    .banner h1{
+        font-size:26px ;
+
+    }
+    .banner p{
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .banner_img{
+       display: none;
+
+    }
+    
+    
+    .btn_download{
+        padding: 5px 7px;
+        font-size: 10px;
+        margin: 10px 0;
+    }
+    .btn_view{
+        padding: 5px 7px;
+        font-size: 10px;
+        margin: 10px;
+    }
+    .banner img{
+      width: 40%;
+      margin-top: 20px;
+
+    }
+    .feature{
+        padding: 10px 0;
+    }
+    .feature .heading{
+        padding-bottom: 0 !important;
+    }
+    .feature_section .heading h6{
+        font-size: 14px;
+
+    }
+    .feature_section .heading h1{
+        
+        font-size: 28px;
+    }
+    .feature_wraper{
+        padding-top: 0 !important;
+    }
+    .detail h1{
+        font-size: 28px;
+    }
+    .customize{
+        padding-top: 0 !important;
+    }
+    .customize h1{
+        font-size: 28px;
+    }
+    .quality{
+        padding-bottom: 20px;
+    }
+    .quality h1{
+        font-size: 28px;
+    }
+    .quality p{
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .carousel_content{
+        text-align: center !important;
+    }
+    .client p{
+        margin:0;
+    }
+    .theme{
+        align-content: center !important;
+        
+    }
+    .theme p{
+        font-size: 14px !important;
+        margin-bottom: 10px !important;
+        padding: 0;
+        padding: 20px 0 !important;
+
+    }
+    .theme .button{
+        display: flex;
+        display: block;
+        margin: auto;
+    }
+    
+    
+    .plan h1{
+        font-size: 28px;
+    }
+    .plan .heading{
+        padding-bottom: 10px !important;
+    }
+    .pricing_box{
+        margin-bottom: 10px;
+    }
+    .pricing_box h2{
+        font-size: 18px;
+    }
+    .pricing p{
+        padding-bottom: 16px;
+    
+    }
+    .pricing_box .btn_view{
+        padding: 5px 10px;
+        font-size: 14px;
+    }
+    .theme p{
+        text-align: center;
+    }
+    .theme .button{
+        text-align: center;
+    }
+    .contact_us .heading{
+        padding-bottom: 10px !important;
+    }
+    .contact_form{
+        padding: 27px 20px;
+        bottom: -185px;
+        width: 60%;
+      }
+      .contact_form form input[type="submit"]{
+          padding: 5px 10px;
+          font-size: 14px;
+      }
+
+
+
+
+}
+@media(max-width:575px){
+    header{
+        
+    }
+    .navbar-brand img{
+        width: 90px;
+        padding-left: 10px;
+    }
+    .navbar-nav .nav-item{
+        padding-left: 10px;
+        text-align: center;
+        
+    }
+    .nav-link{
+        display: inline-block;
+        font-size: 14px;
+        
+    }
+    .banner{
+        padding-top: 16px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .phone{
+        display: inherit;
+        width: 91%;
+        display: block;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    .banner h4{
+        font-size: 14px;
+
+    }
+    .banner h1{
+        font-size:26px ;
+
+    }
+    .banner p{
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .banner_img{
+        display: none;
+    }
+    .btn_download{
+        padding: 5px 7px;
+        font-size: 10px;
+    }
+    .btn_view{
+        padding: 7px 10px;
+        font-size: 10px;
+    }
+
+    .feature{
+        padding: 10px 0;
+    }
+    .feature .heading{
+        padding-bottom: 0 !important;
+    }
+    .feature_section .heading h6{
+        font-size: 14px;
+
+    }
+    .feature_section .heading h1{
+        
+        font-size: 28px;
+    }
+    .feature_wraper{
+        padding-top: 0 !important;
+    }
+    .detail h1{
+        font-size: 28px;
+    }
+    .customize{
+        padding-top: 0 !important;
+    }
+    .customize h1{
+        font-size: 28px;
+    }
+    .quality{
+        padding-bottom: 20px;
+    }
+    .quality h1{
+        font-size: 28px;
+    }
+    .quality p{
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .carousel_content{
+        text-align: center !important;
+    }
+    .client p{
+        margin:0;
+    }
+    .theme p{
+        text-align: center !important;
+    }
+    .theme .button{
+        text-align: center;
+    }
+    .plan h1{
+        font-size: 28px;
+    }
+    .plan .heading{
+        padding-bottom: 10px !important;
+    }
+    .pricing_box h2{
+        font-size: 18px;
+    }
+    .pricing p{
+        padding-bottom: 16px;
+    
+    }
+    .pricing_box .btn_view{
+        padding: 5px 10px;
+        font-size: 14px;
+    }
+    .contact_us .heading{
+        padding-bottom: 10px !important;
+    }
+    .contact_form{
+        padding: 27px 20px;
+        bottom: -185px;
+        width: 80%;
+      }
+      .contact_form form input[type="submit"]{
+          padding: 5px 10px;
+          font-size: 14px;
+      }
+
+
+    }
+
+
+        
+    
+    
